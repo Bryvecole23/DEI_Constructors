@@ -10,7 +10,7 @@
 
 
 ## Agenda and Meeting Notes
-
+[Download Agenda & Meeting Minutes Document]((https://github.com/user-attachments/files/18915396/Agenda.Meeting.Minutes.Info.System.Group.9.pdf)
 
 ### Team Name: DEI (Project 9)
 
