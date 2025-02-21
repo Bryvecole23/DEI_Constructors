@@ -21,6 +21,10 @@
 [Download SWOT Analysis Document](https://github.com/user-attachments/files/18915663/Info.Systems.-.Group.9.-.SWOT.analysis.-.DEI.career.development.website.initiative.docx)
 
 
+## Budget, Scope, & Time Estimates
+[Download Budget, Scope, & Time Estimates](https://github.com/user-attachments/files/18915742/Group.9.-.DEI.Career.Project.-.Fiscal.Budget.xlsx)
+
+
 ## Team Contract
 [Download Team Contract Document](https://github.com/user-attachments/files/18915658/DEI.Project.9.Team.Contract.pdf)
 
