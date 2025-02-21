@@ -2,15 +2,15 @@
 
 
 **Table of Contents**
-  1. [About the Project] (#about-the-project)
+  1. [About the Project](#about-the-project)
   2. [Contributors]
   3. [Our Organization]
-  4. [Milestones] (#milestones)
-       - [Milestone 1] (#milestone-1)
-       - [Milestone 2] (#milestone-2)
-       - [Milestone 3] (#milestone-3)
-       - [Milestone 4] (#milestone-4)
-  5. [Presentation] (#presentation)
+  4. [Milestones](#milestones)
+       - [Milestone 1](#milestone-1)
+       - [Milestone 2](#milestone-2)
+       - [Milestone 3](#milestone-3)
+       - [Milestone 4](#milestone-4)
+  5. [Presentation](#presentation)
 
 # About the Project
 For some years, DEI programs have been a lifeline for minority students in STEM, offering mentorship, career resources, and pathways into the tech industry. 
