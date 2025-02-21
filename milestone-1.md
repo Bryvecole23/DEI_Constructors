@@ -16,6 +16,7 @@
 
 
 ## Project Charter
+[Download Project Charter](https://github.com/user-attachments/files/18915489/Group.9.-.DEI.Website.Initiative.-.Project.Charter.docx)
 
 
 ## SWOT Analysis
