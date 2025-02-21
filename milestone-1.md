@@ -9,7 +9,7 @@
 6. [References](#references)
 
 
-## Agenda and Meeting Notes
+## Agenda and Meeting Minutes
 [Download Agenda & Meeting Minutes Document](https://github.com/user-attachments/files/18915396/Agenda.Meeting.Minutes.Info.System.Group.9.pdf)
 
 
