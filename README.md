@@ -27,3 +27,4 @@ This section provides summaries of each milestone along with a link to a detaile
 ## Milestone 1
 In this milestone, we formalized our project charter by developing the Project Charter and conducting a SWOT analysis. 
 Additionally, we created a high-level budget and estimated the project timeline.
+[Milestone 1 Details can be found here](https://github.com/Bryvecole23/Group_9_DEI/blob/main/milestone-1.md)
