@@ -3,7 +3,8 @@
 
 **Table of Contents**
   1. [About the Project](#about-the-project)
-  2. [Contributors](https://github.com/Bryvecole23/Group_9_DEI/blob/main/Contributors.md)  3. [Our Organization]
+  2. [Contributors](https://github.com/Bryvecole23/Group_9_DEI/blob/main/Contributors.md)
+  3. [Our Organization] Coming Soon
   4. [Milestones](#milestones)
        - [Milestone 1](#milestone-1)
        - [Milestone 2](#milestone-2)
