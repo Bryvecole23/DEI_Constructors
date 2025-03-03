@@ -31,4 +31,4 @@ Additionally, we created a high-level budget and estimated the project timeline.
 
 ## Milestone 2
 By developing our work breakdown structure (WBS), Gantt chart, use cases, API descriptions, research on other systems, and functional and non-functional needs, we continue our planning efforts and carry out our initial analyst activities at Milestone 2.
-[Milestone 2 Details can be found here]
+[Milestone 2 Details can be found here](https://github.com/Bryvecole23/Group_9_DEI/blob/main/milestone-2.md)
