@@ -1,3 +1,9 @@
+## Milestone 2
+  - [Agenda & Meeting Minutes](https://github.com/user-attachments/files/19047319/Info.Systems.and.Design.-.Group.9.-.Meeting.Minutes.for.Monday-February-24-2025.docx)
+
+
+
+
 ## Milestone 2 Documents
 
 Document contains:
