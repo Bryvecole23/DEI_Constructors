@@ -36,5 +36,5 @@ By developing our work breakdown structure (WBS), Gantt chart, use cases, API de
 [Milestone 2 Details can be found here](https://github.com/Bryvecole23/Group_9_DEI/blob/main/milestone-2.md)
 
 ## Milestone 3
-[Milestone 3 Details can be found here]
+[Milestone 3 Details can be found here](https://github.com/Bryvecole23/Group_9_DEI/blob/main/milestone-3.md)
 
